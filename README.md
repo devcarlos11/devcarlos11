@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... trabalhar
 - 🌱 I’m currently learning ... JAVA FULL-STACK
 - 💞️ I’m looking to collaborate on ... crescimento profissional
-- 📫 How to reach me ... caadu8@gmail.com
+- 📫 How to reach me ... caadu8@gmail.com/(21) 98874-4884
 - 😄 Pronouns: ... ele/dele
 - ⚡ Fun fact: ... sou muito curioso
 
