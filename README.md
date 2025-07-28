@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @devcarlos11
-- 👀 I’m interested in ... trabalhar
+- 👀 I’m interested in ... Ajudar equipes com meu conhecimento
 - 🌱 I’m currently learning ... JAVA FULL-STACK
 - 💞️ I’m looking to collaborate on ... crescimento profissional
-- 📫 How to reach me ... caadu8@gmail.com/(21) 98874-4884
+- 📫 How to reach me ... (21)97838-7162 | carlos_dev01@outlook.com 
 - 😄 Pronouns: ... ele/dele
-- ⚡ Fun fact: ... sou muito curioso
+- ⚡ Fun fact: ... gosto de aprender novas coisas
 
 <!---
 devcarlos11/devcarlos11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
